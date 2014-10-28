@@ -1,0 +1,43 @@
+
+div {
+
+}
+	
+
+#top-bar {
+	background-color:#283023;
+	border: solid lightblue;
+	padding: 60px;
+	font-family: Helvetica;
+	color: #A34512;
+	font-size: 64pt;
+	position: relative;
+	text-align: center;
+	border: 2px solid black;
+}
+
+#terrible {
+	font-family: Garamond;
+	color: red;
+	font-size: 8pt;
+	text-align: center;
+}
+	
+.midbox {
+	background-color: #E9BA44;
+	border: 2px solid black;
+	min-height: 50%;
+	text-align: center;
+	margin-bottom: 10px;
+	box-shadow: 10px 10px 5px #4B016E;
+}
+
+
+img {
+	height: 80%;
+	width: 80%;
+}
+
+body {
+background-color: #FE5F04;
+}
