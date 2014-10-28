@@ -1,6 +1,7 @@
 
 div {
-	}
+
+}
 	
 
 #top-bar {
@@ -12,6 +13,29 @@ div {
 	font-size: 64pt;
 	position: relative;
 	text-align: center;
-	}
-	
+	border: 2px solid black;
+}
 
+#terrible {
+	font-family: Garamond;
+	color: red;
+	font-size: 8pt;
+	text-align: center;
+}
+	
+.midbox {
+	background-color: lightgreen;
+	border: 2px solid black;
+	height: 50%;
+	text-align: center;
+}
+
+
+img {
+	height: 80%;
+	width: 80%;
+}
+
+body {
+background-color: #9F2507;
+}
