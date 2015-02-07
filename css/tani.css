@@ -24,12 +24,19 @@ div {
 }
 	
 .midbox {
+<<<<<<< HEAD
 	background-color: #d6d2d2;
 	border: 2px solid black;
 	min-height: 50%;
 	text-align: center;
 	margin-bottom: 10px;
 	box-shadow: 10px 10px 5px #4B016E;
+=======
+	background-color: lightgreen;
+	border: 2px solid black;
+	height: 50%;
+	text-align: center;
+>>>>>>> 1e8bc57f045603c85d95ff96ffc272551379f355
 }
 
 
@@ -39,5 +46,10 @@ img {
 }
 
 body {
+<<<<<<< HEAD
 background-color: #f4bbd3;
 }
+=======
+background-color: #9F2507;
+}
+>>>>>>> 1e8bc57f045603c85d95ff96ffc272551379f355
